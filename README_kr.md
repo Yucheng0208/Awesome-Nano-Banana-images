@@ -7,8 +7,10 @@
 [![English](https://img.shields.io/badge/English-Click_to_View-yellow)](README_en.md)
 [![Japanese](https://img.shields.io/badge/日本語-クリックして表示-green)](README_ja.md)
 [![Korean](https://img.shields.io/badge/한국어-눌러서_보기-blue)](README_kr.md)
+[![Taiwan](https://img.shields.io/badge/Taiwan-點擊查看-4DE8F4)](REDAME_tw.md)
 
 </div>
+
 
 ## 🍌 소개
 
