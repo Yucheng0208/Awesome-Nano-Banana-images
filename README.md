@@ -12,20 +12,20 @@
 
 </div>
 
-> [!NOTE]
-> 我们提出 Nano-consistent-150k——首个基于 Nano-Banana 构建、规模超过 150k 的高质量数据集，专为在多样而复杂的编辑场景中保持人物身份一致性而设计。其一大特点是卓越的身份一致性：针对同一人像，我们在多种任务与指令下提供了 35 种以上不同的编辑结果。以一致的人物身份为锚点，该数据集使得围绕同一主体在多种编辑任务、指令与模态之间无缝衔接的交错（interleaved）数据构建成为可能。
-<a href='https://picotrex.github.io/Awesome-Nano-Banana-images/'><img src='https://img.shields.io/badge/🌐 Website-Blog-orange' height="25"></a>
-<a href='https://huggingface.co/datasets/Yejy53/Nano-consistent-150k'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow' height="25"></a>
-
 ## 🍌 Introduction
 
 欢迎来到 Nano-banana 精选图片库！🤗 
 
-**我们收集了Nano-banana在各个任务场景下生成的令人惊艳的图片和提示词**，全方位展示Google在图像生成与编辑的无限可能。希望能帮助你更好地了解Nano-banana。快一起解锁 Nano-banana 的多图融合与创意编辑力量吧！✨
+**我们收集了Nano-banana/Nano-banana-pro在各个任务场景下生成的令人惊艳的图片和提示词**，全方位展示Google在图像生成与编辑的无限可能。希望能帮助你更好地了解Nano-banana/Nano-banana-pro。快一起解锁 Nano-banana/Nano-banana-pro 的多图融合与创意编辑力量吧！✨
 
 这些案例主要来源于Twitter/ X 🐦、小红书📕等自媒体平台。
 
 喜欢就点 ⭐ Star 收藏起来吧！
+
+> [!NOTE]
+> 我们提出 Nano-consistent-150k——首个基于 Nano-Banana 构建、规模超过 150k 的高质量数据集，专为在多样而复杂的编辑场景中保持人物身份一致性而设计。其一大特点是卓越的身份一致性：针对同一人像，我们在多种任务与指令下提供了 35 种以上不同的编辑结果。以一致的人物身份为锚点，该数据集使得围绕同一主体在多种编辑任务、指令与模态之间无缝衔接的交错（interleaved）数据构建成为可能。
+<a href='https://picotrex.github.io/Awesome-Nano-Banana-images/'><img src='https://img.shields.io/badge/🌐 Website-Blog-orange' height="25"></a>
+<a href='https://huggingface.co/datasets/Yejy53/Nano-consistent-150k'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow' height="25"></a>
 
 ## 📰 News
 
