@@ -30,6 +30,7 @@
 
 ## 📰 뉴스
 
+<!-- - **2025년 11월 26일:** 6️⃣ 여섯 번째 repo 업데이트 -->
 - **2025년 9월 24일:** 5️⃣ 다섯 번째 repo 업데이트
 - **2025년 9월 18일:** **Nano-consistent-150k** 데이터셋을 공개했습니다
 - **Sep-16-2025:** 4️⃣ 네번째 repo 업데이트
@@ -42,7 +43,7 @@
 - [🍌 소개](#-소개)
 - [📰 뉴스](#-뉴스)
 - [📑 목차](#-목차)
-- [🖼️ 사용 예시](#️-사용-예시)
+- [🖼️ Nano Banana 사용 예시](#️-nano-banana-사용-예시)
   - [예시 1: 일러스트레이션에서 피규어로（by @ZHO\_ZHO\_ZHO）](#예시-1-일러스트레이션에서-피규어로by-zho_zho_zho)
   - [예시 2: 지도 위 화살표에서 본 지상 이미지 생성（by @tokumin）](#예시-2-지도-위-화살표에서-본-지상-이미지-생성by-tokumin)
   - [예시 3: 현실 세계에서 증강 현실 이미지로（by @bilawalsidhu）](#예시-3-현실-세계에서-증강-현실-이미지로by-bilawalsidhu)
@@ -135,27 +136,27 @@
   - [예90：Vtuber 되기（by @AI\_Kei75）](#예90vtuber-되기by-ai_kei75)
   - [예91：역 영화 포스터（by @AI\_Kei75）](#예91역-영화-포스터by-ai_kei75)
   - [예92：영화 라운지（by @tokyo\_Valentine）](#예92영화-라운지by-tokyo_valentine)
-  - [예93：카툰 폭발로 물체 절단（by @Arminn_Ai）](#예93카툰-폭발로-물체-절단by-arminn_ai)
+  - [예93：카툰 폭발로 물체 절단（by @Arminn\_Ai）](#예93카툰-폭발로-물체-절단by-arminn_ai)
   - [예94：캐릭터 테마 열차（by @tokyo\_Valentine）](#예94캐릭터-테마-열차by-tokyo_valentine)
   - [예95：커스텀 테마파크（by @AI\_Kei75）](#예95커스텀-테마파크by-ai_kei75)
   - [예96：별자리 이미지 생성（by @AI\_Kei75）](#예96별자리-이미지-생성by-ai_kei75)
   - [예97：이미지를 휴대폰 배경화면으로 변환（by @ZHO\_ZHO\_ZHO）](#예97이미지를-휴대폰-배경화면으로-변환by-zho_zho_zho)
-  - [예98：영화 포스터 제작（by @aiehon_aya）](#예98영화-포스터-제작by-aiehon_aya)
+  - [예98：영화 포스터 제작（by @aiehon\_aya）](#예98영화-포스터-제작by-aiehon_aya)
   - [예99：X 계정을 플로피 디스크로（by @icreatelife）](#예99x-계정을-플로피-디스크로by-icreatelife)
   - [예100：참조 이미지를 투명 오브젝트로（by @icreatelife）](#예100참조-이미지를-투명-오브젝트로by-icreatelife)
   - [예101：어안 렌즈 도어뷰 일러스트（by @emakiscroll）](#예101어안-렌즈-도어뷰-일러스트by-emakiscroll)
-  - [예102：슈퍼히어로 실내 디자인（by @IqraSaifiii）](#예102슈퍼히어로-실내-디자인by-iqrasafiii)
+  - [예102：슈퍼히어로 실내 디자인（by @IqraSaifiii）](#예102슈퍼히어로-실내-디자인by-iqrasaifiii)
   - [예103：커스텀 인형뽑기（by @googlejapan）](#예103커스텀-인형뽑기by-googlejapan)
   - [예104：타이포 로고 디자인（by @aziz4ai）](#예104타이포-로고-디자인by-aziz4ai)
   - [예105：RPG 캐릭터 상태 화면（by @AI\_Kei75）](#예105rpg-캐릭터-상태-화면by-ai_kei75)
-  - [예106：설명 그림을 픽토그램으로（by @nobisiro_2023）](#예106설명-그림을-픽토그램으로by-nobisiro_2023)
+  - [예106：설명 그림을 픽토그램으로（by @nobisiro\_2023）](#예106설명-그림을-픽토그램으로by-nobisiro_2023)
   - [예107：펜 타블렛 드로잉（by @AI\_Kei75）](#예107펜-타블렛-드로잉by-ai_kei75)
   - [예108：LINE 스탬프 이미지 만들기（by @emakiscroll）](#예108line-스탬프-이미지-만들기by-emakiscroll)
-  - [예109：어린 시절의 나를 치유하기（by @samann_ai）](#예109어린-시절의-나를-치유하기by-samann_ai)
+  - [예109：어린 시절의 나를 치유하기（by @samann\_ai）](#예109어린-시절의-나를-치유하기by-samann_ai)
   - [예110：PIXAR풍 인물화（by @NanoBanana\_labs）](#예110pixar풍-인물화by-nanobanana_labs)
 - [🙏 기여자 및 감사의 말](#-기여자-및-감사의-말)
 
-## 🖼️ 사용 예시
+## 🖼️ Nano Banana 사용 예시
 
 <!-- 사용 예시 1: 일러스트레이션에서 피규어로 (by @ZHO_ZHO_ZHO) -->
 ### 예시 1: [일러스트레이션에서 피규어로](https://x.com/ZHO_ZHO_ZHO/status/1958539464994959715)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
@@ -2304,6 +2305,7 @@ LED 스크린에 애니메이션과 캐릭터 영상을 투사한다.
 - [@IqraSaifiii](https://x.com/IqraSaifiii)
 - [@aziz4ai](https://x.com/aziz4ai)
 - [@samann_ai](https://x.com/samann_ai)
+- [@hAru_mAki_ch](https://x.com/hAru_mAki_ch)
 
 *모든 사례가 원작자의 것임을 보장하기 어렵습니다. 이로 인해 문제가 있으시다면 언제든지 수정을 위해 연락 주시기 바랍니다.*
 

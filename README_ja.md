@@ -29,6 +29,7 @@ Nano-bananaの厳選画像ギャラリーへようこそ！🤗
 
 ## 📰 ニュース
 
+- **2025年11月26日：** 6️⃣ 6回目のリポジトリ更新
 - **2025年9月24日：** 5️⃣ 5回目のリポジトリ更新
 - **2025年9月18日：** **Nano-consistent-150k** データセットを公開しました
 - **2025年9月9日:** 4️⃣ 4回目のリポジトリ更新
@@ -41,7 +42,39 @@ Nano-bananaの厳選画像ギャラリーへようこそ！🤗
 - [🍌 はじめに](#-はじめに)
 - [📰 ニュース](#-ニュース)
 - [📑 目次](#-目次)
-- [🖼️ 事例](#️-事例)
+- [🍌 Nano Banana Pro 事例](#-nano-banana-pro-事例)
+  - [例 1: 浮世絵フラッシュカード（by @MANISH1027512）](#例-1-浮世絵フラッシュカードby-manish1027512)
+  - [例 2: 座標から画像を生成（by @TechieBySA）](#例-2-座標から画像を生成by-techiebysa)
+  - [例 3: キャラクターのクローン作成（by @tapehead\_Lab）](#例-3-キャラクターのクローン作成by-tapehead_lab)
+  - [例 4: ドキュメントからフローチャートを生成（by @anderssandberg）](#例-4-ドキュメントからフローチャートを生成by-anderssandberg)
+  - [例 5: 記事からPPTを作成（by @op7418）](#例-5-記事からpptを作成by-op7418)
+  - [例 6: キャラクターの分解図（by @cheerselflin）](#例-6-キャラクターの分解図by-cheerselflin)
+  - [例 7: アイテム制作の舞台裏（by @ZHO\_ZHO\_ZHO）](#例-7-アイテム制作の舞台裏by-zho_zho_zho)
+  - [例 8: 子供向け識字ニュースレター（by @lxfater）](#例-8-子供向け識字ニュースレターby-lxfater)
+  - [例 9: 素材テクスチャの生成（by @someidesign）](#例-9-素材テクスチャの生成by-someidesign)
+  - [例 10: 都市画像に巨大生物を追加（by @AI\_GIRL\_DESIGN）](#例-10-都市画像に巨大生物を追加by-ai_girl_design)
+  - [例 11: おもちゃの分解展示（by @ZeroZ\_JQ）](#例-11-おもちゃの分解展示by-zeroz_jq)
+  - [例 12: ふわふわのぬいぐるみ（by @toolfolio）](#例-12-ふわふわのぬいぐるみby-toolfolio)
+  - [例 13: クリスタルテクスチャの絵文字（by @ZHO\_ZHO\_ZHO）](#例-13-クリスタルテクスチャの絵文字by-zho_zho_zho)
+  - [例 14: ふわふわのインフレータブルおもちゃ（by @gizakdag）](#例-14-ふわふわのインフレータブルおもちゃby-gizakdag)
+  - [例 15: 手描きのアイソメトリックビュー（by @AmirMushich）](#例-15-手描きのアイソメトリックビューby-amirmushich)
+  - [例 16: 写真制作の舞台裏を公開（by @icreatelife）](#例-16-写真制作の舞台裏を公開by-icreatelife)
+  - [例 17: 顔から年齢を推定（by @Samann\_ai）](#例-17-顔から年齢を推定by-samann_ai)
+  - [例 18: 歴史的な新聞（by @TechieBySA）](#例-18-歴史的な新聞by-techiebysa)
+  - [例 19: キャラクター相関図（by @KanaWorks\_AI）](#例-19-キャラクター相関図by-kanaworks_ai)
+  - [例 20: 乙女ゲームの設定集（by @KanaWorks\_AI）](#例-20-乙女ゲームの設定集by-kanaworks_ai)
+  - [例 21: キャラクターのレベル進化（by @KanaWorks\_AI）](#例-21-キャラクターのレベル進化by-kanaworks_ai)
+  - [例 22: 再帰的な画像（by @goodside）](#例-22-再帰的な画像by-goodside)
+  - [例 23: 複数キャラクターのクロスオーバー漫画（by @canghecode）](#例-23-複数キャラクターのクロスオーバー漫画by-canghecode)
+  - [例 24: フィギュアガレージキットの着色（by @op7418）](#例-24-フィギュアガレージキットの着色by-op7418)
+  - [例 25: 金色の引用カード（by @stark\_nico99）](#例-25-金色の引用カードby-stark_nico99)
+  - [例 26: 清明上河図風の画像（by @dotey）](#例-26-清明上河図風の画像by-dotey)
+  - [例 27: 映画の絵コンテ作成（by @jamesyeung18）](#例-27-映画の絵コンテ作成by-jamesyeung18)
+  - [例 28: 黒板のチョーク画（by @TlanoAI）](#例-28-黒板のチョーク画by-tlanoai)
+  - [例 29: ミニチュアの自画像（by @TechieBySA）](#例-29-ミニチュアの自画像by-techiebysa)
+  - [例 30: Wikipediaから伝記を生成（by @chrisfirst）](#例-30-wikipediaから伝記を生成by-chrisfirst)
+  - [例 31: スタイリッシュな地図（by @Mr\_AllenT）](#例-31-スタイリッシュな地図by-mr_allent)
+- [🖼️ Nano Banana 事例](#️-nano-banana-事例)
   - [例 1: イラストからフィギュアへ（by @ZHO\_ZHO\_ZHO）](#例-1-イラストからフィギュアへby-zho_zho_zho)
   - [例 2: 地図の矢印から地上視点の画像を生成（by @tokumin）](#例-2-地図の矢印から地上視点の画像を生成by-tokumin)
   - [例 3: 現実世界をARで情報化（by @bilawalsidhu）](#例-3-現実世界をarで情報化by-bilawalsidhu)
@@ -133,27 +166,460 @@ Nano-bananaの厳選画像ギャラリーへようこそ！🤗
   - [例90：Vtuberになる（by @AI\_Kei75）](#例90vtuberになるby-ai_kei75)
   - [例91：駅の映画ポスター（by @AI\_Kei75）](#例91駅の映画ポスターby-ai_kei75)
   - [例92：映画ラウンジ（by @tokyo\_Valentine）](#例92映画ラウンジby-tokyo_valentine)
-  - [例 93: カートゥーン爆発で物体を切断（by @Arminn_Ai）](#例-93-カートゥーン爆発で物体を切断by-arminn_ai)
+  - [例 93: カートゥーン爆発で物体を切断（by @Arminn\_Ai）](#例-93-カートゥーン爆発で物体を切断by-arminn_ai)
   - [例 94: キャラクターラッピング列車（by @tokyo\_Valentine）](#例-94-キャラクターラッピング列車by-tokyo_valentine)
   - [例 95: カスタムテーマパーク（by @AI\_Kei75）](#例-95-カスタムテーマパークby-ai_kei75)
   - [例 96: 星座図を作る（by @AI\_Kei75）](#例-96-星座図を作るby-ai_kei75)
   - [例 97: 画像をスマホ壁紙に変換（by @ZHO\_ZHO\_ZHO）](#例-97-画像をスマホ壁紙に変換by-zho_zho_zho)
-  - [例 98: 映画ポスターを作成（by @aiehon_aya）](#例-98-映画ポスターを作成by-aiehon_aya)
+  - [例 98: 映画ポスターを作成（by @aiehon\_aya）](#例-98-映画ポスターを作成by-aiehon_aya)
   - [例 99: Xアカウントをフロッピーディスク化（by @icreatelife）](#例-99-xアカウントをフロッピーディスク化by-icreatelife)
   - [例100: 参照画像を透明オブジェクト化（by @icreatelife）](#例100-参照画像を透明オブジェクト化by-icreatelife)
   - [例101: 魚眼レンズのぞき穴イラスト（by @emakiscroll）](#例101-魚眼レンズのぞき穴イラストby-emakiscroll)
-  - [例102: スーパーヒーロー室内デザイン（by @IqraSaifiii）](#例102-スーパーヒーロー室内デザインby-iqrasafiii)
+  - [例102: スーパーヒーロー室内デザイン（by @IqraSaifiii）](#例102-スーパーヒーロー室内デザインby-iqrasaifiii)
   - [例103: カスタムUFOキャッチャー（by @googlejapan）](#例103-カスタムufoキャッチャーby-googlejapan)
   - [例104: 文字ロゴデザイン（by @aziz4ai）](#例104-文字ロゴデザインby-aziz4ai)
   - [例105: RPGキャラクターのステータス画面（by @AI\_Kei75）](#例105-rpgキャラクターのステータス画面by-ai_kei75)
-  - [例106: 説明図をピクトグラム化（by @nobisiro_2023）](#例106-説明図をピクトグラム化by-nobisiro_2023)
+  - [例106: 説明図をピクトグラム化（by @nobisiro\_2023）](#例106-説明図をピクトグラム化by-nobisiro_2023)
   - [例107: ペンタブレットでの描画（by @AI\_Kei75）](#例107-ペンタブレットでの描画by-ai_kei75)
   - [例108: LINEスタンプ画像を作成（by @emakiscroll）](#例108-lineスタンプ画像を作成by-emakiscroll)
-  - [例109: 子どもの自分を癒す（by @samann_ai）](#例109-子どもの自分を癒すby-samann_ai)
+  - [例109: 子どもの自分を癒す（by @samann\_ai）](#例109-子どもの自分を癒すby-samann_ai)
   - [例110: PIXAR風ポートレート（by @NanoBanana\_labs）](#例110-pixar風ポートレートby-nanobanana_labs)
 - [🙏 謝辞](#-謝辞)
 
-## 🖼️ 事例
+## 🍌 Nano Banana Pro 事例
+
+<!-- 例 1: 浮世絵フラッシュカード（by @MANISH1027512） -->
+### 例 1: [浮世絵フラッシュカード](https://x.com/MANISH1027512/status/1960583251460022626)（by [@MANISH1027512](https://x.com/MANISH1027512)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case1/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+この画像を浮世絵スタイルのフラッシュカードに変換してください。
+```
+
+<!-- 例 2: 座標から画像を生成（by @TechieBySA） -->
+### 例 2: [座標から画像を生成](https://x.com/TechieBySA/status/1960583251460022626)（by [@TechieBySA](https://x.com/TechieBySA)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case2/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+座標 (x,y) にあるオブジェクトの画像を生成してください。
+```
+
+<!-- 例 3: キャラクターのクローン作成（by @tapehead_Lab） -->
+### 例 3: [キャラクターのクローン作成](https://x.com/tapehead_Lab/status/1960583251460022626)（by [@tapehead_Lab](https://x.com/tapehead_Lab)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case3/output.jpg" width="300" alt="出力結果"> |
+
+**入力:** クローンを作成したいキャラクターの画像をアップロードします。
+
+**プロンプト:**
+
+```
+このキャラクターのクローンを作成してください。
+```
+
+<!-- 例 4: ドキュメントからフローチャートを生成（by @anderssandberg） -->
+### 例 4: [ドキュメントからフローチャートを生成](https://x.com/anderssandberg/status/1960583251460022626)（by [@anderssandberg](https://x.com/anderssandberg)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case4/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+このドキュメントの内容に基づいてフローチャートを生成してください。
+```
+
+<!-- 例 5: 記事からPPTを作成（by @op7418） -->
+### 例 5: [記事からPPTを作成](https://x.com/op7418/status/1960583251460022626)（by [@op7418](https://x.com/op7418)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case5/output.jpg" width="300" alt="出力結果"> |
+
+**入力:** 記事の画像をアップロードします。
+
+**プロンプト:**
+
+```
+この記事の内容に基づいてPowerPointプレゼンテーションを作成してください。
+```
+
+<!-- 例 6: キャラクターの分解図（by @cheerselflin） -->
+### 例 6: [キャラクターの分解図](https://x.com/cheerselflin/status/1960583251460022626)（by [@cheerselflin](https://x.com/cheerselflin)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case6/output.jpg" width="300" alt="出力結果"> |
+
+**入力:** キャラクターの画像をアップロードします。
+
+**プロンプト:**
+
+```
+このキャラクターの分解図を作成してください。
+```
+
+<!-- 例 7: アイテム制作の舞台裏（by @ZHO_ZHO_ZHO） -->
+### 例 7: [アイテム制作の舞台裏](https://x.com/ZHO_ZHO_ZHO/status/1960583251460022626)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case7/case.jpg" width="300" alt="出力結果"> |
+
+**入力:** アイテムの画像をアップロードします。
+
+**プロンプト:**
+
+```
+このアイテムの制作過程の舞台裏を描いてください。
+```
+
+<!-- 例 8: 子供向け識字ニュースレター（by @lxfater） -->
+### 例 8: [子供向け識字ニュースレター](https://x.com/lxfater/status/1960583251460022626)（by [@lxfater](https://x.com/lxfater)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case8/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+子供向けの識字ニュースレターを作成してください。
+```
+
+<!-- 例 9: 素材テクスチャの生成（by @someidesign） -->
+### 例 9: [素材テクスチャの生成](https://x.com/someidesign/status/1960583251460022626)（by [@someidesign](https://x.com/someidesign)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case9/case.jpg" width="300" alt="出力結果"> |
+
+**入力:** テクスチャの参照画像をアップロードします。
+
+**プロンプト:**
+
+```
+このような素材のテクスチャを生成してください。
+```
+
+<!-- 例 10: 都市画像に巨大生物を追加（by @AI_GIRL_DESIGN） -->
+### 例 10: [都市画像に巨大生物を追加](https://x.com/AI_GIRL_DESIGN/status/1960583251460022626)（by [@AI_GIRL_DESIGN](https://x.com/AI_GIRL_DESIGN)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case10/output.jpg" width="300" alt="出力結果"> |
+
+**入力:** 都市の画像をアップロードします。
+
+**プロンプト:**
+
+```
+この都市の画像に巨大な生物を追加してください。
+```
+
+<!-- 例 11: おもちゃの分解展示（by @ZeroZ_JQ） -->
+### 例 11: [おもちゃの分解展示](https://x.com/ZeroZ_JQ/status/1960583251460022626)（by [@ZeroZ_JQ](https://x.com/ZeroZ_JQ)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case11/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+このおもちゃの分解展示を作成してください。
+```
+
+<!-- 例 12: ふわふわのぬいぐるみ（by @toolfolio） -->
+### 例 12: [ふわふわのぬいぐるみ](https://x.com/toolfolio/status/1960583251460022626)（by [@toolfolio](https://x.com/toolfolio)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case12/output.jpg" width="300" alt="出力結果"> |
+
+**入力:** 動物やキャラクターの画像をアップロードします。
+
+**プロンプト:**
+
+```
+これをふわふわのぬいぐるみに変換してください。
+```
+
+<!-- 例 13: クリスタルテクスチャの絵文字（by @ZHO_ZHO_ZHO） -->
+### 例 13: [クリスタルテクスチャの絵文字](https://x.com/ZHO_ZHO_ZHO/status/1960583251460022626)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case13/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+クリスタルテクスチャの絵文字に変換してください。
+```
+
+<!-- 例 14: ふわふわのインフレータブルおもちゃ（by @gizakdag） -->
+### 例 14: [ふわふわのインフレータブルおもちゃ](https://x.com/gizakdag/status/1960583251460022626)（by [@gizakdag](https://x.com/gizakdag)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case14/output.jpg" width="300" alt="出力結果"> |
+
+**入力:** キャラクターの画像をアップロードします。
+
+**プロンプト:**
+
+```
+ふわふわのインフレータブルおもちゃに変換してください。
+```
+
+<!-- 例 15: 手描きのアイソメトリックビュー（by @AmirMushich） -->
+### 例 15: [手描きのアイソメトリックビュー](https://x.com/AmirMushich/status/1960583251460022626)（by [@AmirMushich](https://x.com/AmirMushich)）
+
+| 入力 | 出力 |
+|:---:|:---:|
+| <img src="images/pro_case15/input.jpg" width="300" alt="入力画像"> | <img src="images/pro_case15/output.jpg" width="300" alt="出力結果"> |
+
+**入力:** 建物の画像をアップロードします。
+
+**プロンプト:**
+
+```
+手描きのアイソメトリックビューを作成してください。
+```
+
+<!-- 例 16: 写真制作の舞台裏を公開（by @icreatelife） -->
+### 例 16: [写真制作の舞台裏を公開](https://x.com/icreatelife/status/1960583251460022626)（by [@icreatelife](https://x.com/icreatelife)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case16/output.jpg" width="300" alt="出力結果"> |
+
+**入力:** 写真をアップロードします。
+
+**プロンプト:**
+
+```
+この写真の撮影風景の舞台裏を描いてください。
+```
+
+<!-- 例 17: 顔から年齢を推定（by @Samann_ai） -->
+### 例 17: [顔から年齢を推定](https://x.com/Samann_ai/status/1960583251460022626)（by [@Samann_ai](https://x.com/Samann_ai)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case17/output.jpg" width="300" alt="出力結果"> |
+
+**入力:** 顔写真をアップロードします。
+
+**プロンプト:**
+
+```
+この顔から年齢を推定してください。
+```
+
+<!-- 例 18: 歴史的な新聞（by @TechieBySA） -->
+### 例 18: [歴史的な新聞](https://x.com/TechieBySA/status/1960583251460022626)（by [@TechieBySA](https://x.com/TechieBySA)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case18/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+歴史的な新聞のスタイルで記事を作成してください。
+```
+
+<!-- 例 19: キャラクター相関図（by @KanaWorks_AI） -->
+### 例 19: [キャラクター相関図](https://x.com/KanaWorks_AI/status/1960583251460022626)（by [@KanaWorks_AI](https://x.com/KanaWorks_AI)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case19/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+キャラクター相関図を作成してください。
+```
+
+<!-- 例 20: 乙女ゲームの設定集（by @KanaWorks_AI） -->
+### 例 20: [乙女ゲームの設定集](https://x.com/KanaWorks_AI/status/1960583251460022626)（by [@KanaWorks_AI](https://x.com/KanaWorks_AI)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case20/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+乙女ゲームの設定集を作成してください。
+```
+
+<!-- 例 21: キャラクターのレベル進化（by @KanaWorks_AI） -->
+### 例 21: [キャラクターのレベル進化](https://x.com/KanaWorks_AI/status/1960583251460022626)（by [@KanaWorks_AI](https://x.com/KanaWorks_AI)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case21/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+キャラクターのレベル進化を描いてください。
+```
+
+<!-- 例 22: 再帰的な画像（by @goodside） -->
+### 例 22: [再帰的な画像](https://x.com/goodside/status/1960583251460022626)（by [@goodside](https://x.com/goodside)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case22/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+再帰的な画像を生成してください。
+```
+
+<!-- 例 23: 複数キャラクターのクロスオーバー漫画（by @canghecode） -->
+### 例 23: [複数キャラクターのクロスオーバー漫画](https://x.com/canghecode/status/1960583251460022626)（by [@canghecode](https://x.com/canghecode)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case23/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+複数キャラクターのクロスオーバー漫画を作成してください。
+```
+
+<!-- 例 24: フィギュアガレージキットの着色（by @op7418） -->
+### 例 24: [フィギュアガレージキットの着色](https://x.com/op7418/status/1960583251460022626)（by [@op7418](https://x.com/op7418)）
+
+| 示例 |
+|:---:|
+| <img src="images/pro_case24/case.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+このガレージキットに着色してください。
+```
+
+<!-- 例 25: 金色の引用カード（by @stark_nico99） -->
+### 例 25: [金色の引用カード](https://x.com/stark_nico99/status/1960583251460022626)（by [@stark_nico99](https://x.com/stark_nico99)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case25/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+金色の引用カードを作成してください。
+```
+
+<!-- 例 26: 清明上河図風の画像（by @dotey） -->
+### 例 26: [清明上河図風の画像](https://x.com/dotey/status/1960583251460022626)（by [@dotey](https://x.com/dotey)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case26/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+清明上河図風の画像を生成してください。
+```
+
+<!-- 例 27: 映画の絵コンテ作成（by @jamesyeung18） -->
+### 例 27: [映画の絵コンテ作成](https://x.com/jamesyeung18/status/1960583251460022626)（by [@jamesyeung18](https://x.com/jamesyeung18)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case27/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+映画の絵コンテを作成してください。
+```
+
+<!-- 例 28: 黒板のチョーク画（by @TlanoAI） -->
+### 例 28: [黒板のチョーク画](https://x.com/TlanoAI/status/1960583251460022626)（by [@TlanoAI](https://x.com/TlanoAI)）
+
+| 入力 | 出力 |
+|:---:|:---:|
+| <img src="images/pro_case28/input.jpg" width="300" alt="入力画像"> | <img src="images/pro_case28/output.jpg" width="300" alt="出力結果"> |
+
+**入力:** 画像をアップロードします。
+
+**プロンプト:**
+
+```
+黒板のチョーク画風に変換してください。
+```
+
+<!-- 例 29: ミニチュアの自画像（by @TechieBySA） -->
+### 例 29: [ミニチュアの自画像](https://x.com/TechieBySA/status/1960583251460022626)（by [@TechieBySA](https://x.com/TechieBySA)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case29/output.jpg" width="300" alt="出力結果"> |
+
+**入力:** 自画像をアップロードします。
+
+**プロンプト:**
+
+```
+ミニチュアの自画像を作成してください。
+```
+
+<!-- 例 30: Wikipediaから伝記を生成（by @chrisfirst） -->
+### 例 30: [Wikipediaから伝記を生成](https://x.com/chrisfirst/status/1960583251460022626)（by [@chrisfirst](https://x.com/chrisfirst)）
+
+| 出力 |
+|:---:|
+| <img src="images/pro_case30/output.jpg" width="300" alt="出力結果"> |
+
+**プロンプト:**
+
+```
+Wikipediaから伝記を生成してください。
+```
+
+<!-- 例 31: スタイリッシュな地図（by @Mr_AllenT） -->
+### 例 31: [スタイリッシュな地図](https://x.com/Mr_AllenT/status/1960583251460022626)（by [@Mr_AllenT](https://x.com/Mr_AllenT)）
+
+| 入力 | 出力 |
+|:---:|:---:|
+| <img src="images/pro_case31/input.jpg" width="300" alt="入力画像"> | <img src="images/pro_case31/output.jpg" width="300" alt="出力結果"> |
+
+**入力:** 地図の画像をアップロードします。
+
+**プロンプト:**
+
+```
+スタイリッシュな地図を作成してください。
+```
+
+## 🖼️ Nano Banana 事例
 
 <!-- 例 1: イラストからフィギュアへ（by @ZHO_ZHO_ZHO） -->
 ### 例 1: [イラストからフィギュアへ](https://x.com/ZHO_ZHO_ZHO/status/1958539464994959715)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
@@ -2248,6 +2714,27 @@ LED スクリーンにアニメーションやキャラクター映像を投影�
 - [@IqraSaifiii](https://x.com/IqraSaifiii)
 - [@aziz4ai](https://x.com/aziz4ai)
 - [@samann_ai](https://x.com/samann_ai)
+- [@hAru_mAki_ch](https://x.com/hAru_mAki_ch)
+- [@MANISH1027512](https://x.com/MANISH1027512)
+- [@TechieBySA](https://x.com/TechieBySA)
+- [@anderssandberg](https://x.com/anderssandberg)
+- [@cheerselflin](https://x.com/cheerselflin)
+- [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)
+- [@lxfater](https://x.com/lxfater)
+- [@someidesign](https://x.com/someidesign)
+- [@AI_GIRL_DESIGN](https://x.com/ai_girl_design)
+- [@ZeroZ_JQ](https://x.com/ZeroZ_JQ)
+- [@toolfolio](https://x.com/toolfolio)
+- [@gizakdag](https://x.com/gizakdag)
+- [@KanaWorks_AI](https://x.com/KanaWorks_AI)
+- [@goodside](https://x.com/goodside)
+- [@canghecode](https://x.com/canghecode)
+- [@stark_nico99](https://x.com/stark_nico99)
+- [@dotey](https://x.com/dotey)
+- [@jamesyeung18](https://x.com/jamesyeung18)
+- [@TlanoAI](https://x.com/TlanoAI)
+- [@chrisfirst](https://x.com/chrisfirst)
+- [@Mr_AllenT](https://x.com/Mr_AllenT)
 
 *すべての事例が原作者のものであることを保証するものではありません。もしご迷惑をおかけした場合は、修正のためお気軽にご連絡ください。*
 
